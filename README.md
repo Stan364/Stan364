@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on code
-- 📫 How to reach me, code
+- 📫 How to reach me, code =)
 
 <!---
 Stan364/Stan364 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
